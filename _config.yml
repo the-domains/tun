@@ -1,0 +1,28 @@
+name: tun
+favicon: null
+layout_spectrum: 0.08456211816519499
+typography_spectrum: 0.616846926510334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.586225971346721
+  lightness: 0.5749187208712101
+  saturation: 0.7055542939342558
+  rhythmicContrast: 0.24535780935548246
+purpose: []
